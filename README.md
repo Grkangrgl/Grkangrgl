@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,py,sass,vue)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grkangrgl&show_icons=true&theme=radical, https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grkangrgl&show_icons=true&theme=radical,https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
