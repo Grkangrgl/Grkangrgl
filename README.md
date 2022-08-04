@@ -3,8 +3,8 @@
 
 
 <div class = "tools"; border-bottom: 1px solid red;>
-
-</div>
 🛠 Languages & Tools I Use
+</div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,php,py,sass,unity,vue,)](https://skillicons.dev)
