@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Gürkan Gargulu  👋
 
 I am striving to improve myself more and more in the field of software day by day.
 <!--
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 🛠 Languages & Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,py,sass,vue)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grkangrgl)](https://github.com/anuraghazra/github-readme-stats)
