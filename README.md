@@ -2,15 +2,10 @@
 <h3 align="center">I am striving to improve myself more and more in the field of software day by day.</h3>
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grkangrgl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grkangrgl&show_icons=true&theme=radical)
-
 <br/>
 
-<p dir="auto"><img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
+<p dir="auto"><img src="https://raw.githubusercontent.com/Grkangrgl/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/Grkangrgl/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
 
 <br/>
 
