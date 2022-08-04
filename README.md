@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am striving to improve myself more and more in the field of software day by day.
 <!--
 **Grkangrgl/Grkangrgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
